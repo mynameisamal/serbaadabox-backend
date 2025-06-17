@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "email": "admin@example.com",
+    "password": "123456",
+    "role": "admin"
+  },
+  {
+    "id": 1748570845899,
+    "email": "budi@example.com",
+    "password": "123456",
+    "name": "budi",
+    "role": "pelanggan"
+  },
+  {
+    "id": 1748572100910,
+    "email": "adikerang@example.com",
+    "password": "123456",
+    "name": "adi kerang",
+    "role": "pelanggan"
+  }
+]

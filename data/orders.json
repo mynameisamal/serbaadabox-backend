@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1747987806827,
+    "user": "budi@gmail.com",
+    "info": {
+      "name": "Budi",
+      "address": "Jl. Mawar 5",
+      "note": ""
+    },
+    "items": [
+      {
+        "name": "Box",
+        "quantity": 100,
+        "price": 5000
+      }
+    ],
+    "total": 500000,
+    "date": "2025-05-23T08:10:06.827Z",
+    "status": "Dikirim"
+  },
+  {
+    "id": 1747989671174,
+    "user": "budi@example.com",
+    "info": {
+      "name": "as",
+      "address": "asdas",
+      "note": ""
+    },
+    "items": [
+      {
+        "name": "Box Kemasan",
+        "material": "duplex",
+        "size": "10x10",
+        "quantity": 1000,
+        "price": 1000000,
+        "template": null
+      }
+    ],
+    "total": 1000000,
+    "date": "2025-05-23T08:41:11.174Z",
+    "status": "Diproses"
+  },
+  {
+    "id": 1748573940420,
+    "user": "adikerang@example.com",
+    "info": {
+      "name": "adi kerang",
+      "address": "jl medan",
+      "note": "gaada catatan"
+    },
+    "items": [
+      {
+        "name": "Box Kemasan",
+        "material": "duplex",
+        "size": "10x10",
+        "quantity": 1000,
+        "price": 1000000,
+        "template": null
+      }
+    ],
+    "total": 1000000,
+    "date": "2025-05-30T02:59:00.420Z",
+    "status": "Diproses"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type": "order",
+    "message": "Pesanan baru dari budi@gmail.com senilai Rp 1.200.000",
+    "time": "2025-05-28T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "type": "payment",
+    "message": "Pembayaran berhasil untuk pesanan #1022",
+    "time": "2025-05-28T11:00:00Z"
+  }
+]
